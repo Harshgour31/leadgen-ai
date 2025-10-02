@@ -1,0 +1,4 @@
+Company,Domain,Domain Valid,AI Score (0-5)
+OpenAI,openai.com,True,0
+Caprae Capital,capraecapital.com,True,1
+Invalid Example,notarealdomain.abc,True,0
